@@ -44,17 +44,6 @@ tree
 ├── _posts
 │   ├── 2018-11-01-lorem-ipsum.md
 │   └── 2018-11-04-Dextra-neque.md
-├── _site
-│   ├── README.md
-│   ├── about.html
-│   ├── articles
-│   │   ├── Dextra-neque.html
-│   │   ├── index.html
-│   │   └── lorem-ipsum.html
-│   ├── assets
-│   │   ├── favicon.ico
-│   │   └── style.css
-│   └── index.html
 ├── about.html
 ├── articles
 │   └── index.html
