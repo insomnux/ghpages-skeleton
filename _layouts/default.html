@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ page.title }}</title>
+<link rel="stylesheet" type="text/css" media="all" href={{ "css/main.css" | relative_url }} />
+</head>
+
+
+<body>
+<nav class="mainnav">
+  <ul>
+    <li><a href={{ "/" | relative_url }}>Home</a></li>
+    <li><a href={{ "about" | relative_url }}>About</a></li>
+    <li><a href={{ "articles/" | relative_url }}>Articles</a></li>
+  </ul>
+</nav>
+
+
+<main>
+
+{{ content }}
+
+</main>
+
+  
+<footer>
+<a href="https://github.com/insomnux">github.com/insomnux</a></li>
+</footer>
+
+</body>
+</html>

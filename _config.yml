@@ -1,0 +1,4 @@
+name: insomnux
+markdown: kramdown
+permalink: /articles/:title
+baseurl: /template-ghpages
