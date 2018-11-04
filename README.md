@@ -7,7 +7,7 @@
 
 ## Description
 
-Template for a [Jekyll]((https://jekyllrb.com) static site that is blog aware. Put markdown files in `_articles` and push to GitHub. Jekyll will automatically render the templates and markdown files to html. 
+Template for a [Jekyll](https://jekyllrb.com) static site that is blog aware. Put markdown files in `_articles` and push to GitHub. Jekyll will automatically render the templates and markdown files to html. 
 
 ---
 
