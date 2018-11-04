@@ -7,6 +7,7 @@ Uses the [Jekyll directory structure](https://jekyllrb.com/docs/structure/):
 
 ```sh
 tree
+├── README.md
 ├── .gitignore
 ├── _config.yml
 ├── _layouts
@@ -19,8 +20,8 @@ tree
 ├── about.html
 ├── articles
 │   └── index.html
-├── css
-│   └── main.css
+├── assets
+│   └── style.css
 └── index.html
 ```
 
