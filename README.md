@@ -37,7 +37,7 @@ Directory `_site` is excluded in `.gitignore`
 
 Default and post layout
 
-### `css` and `_posts`
+### `assets` and `_posts`
 
 Sample stylesheet and content
 
