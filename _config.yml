@@ -1,4 +1,24 @@
-name: insomnux
-markdown: kramdown
+# General info:
+title: GitHub Pages skeleton
+description: > #ignore newlines
+  A skeleton to quickly create GitHub pages with blog
+author: insomnux
+url: https://
+
+
+# Site options:
 permalink: /articles/:title
-baseurl: /template-ghpages
+baseurl: /skeleton-ghpages
+# favicon: assets/favicon.ico
+# logo: assets/logo.png
+
+# Markdown
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  syntax_highlighter: rouge
+  hard_wrap: false
+
+# Social links
+twitter_un: insomnux
+github_un: insomnux 
