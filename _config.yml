@@ -8,7 +8,7 @@ url: https://
 
 # Site options:
 permalink: /articles/:title
-baseurl: /skeleton-ghpages
+baseurl: /ghpages-skeleton/
 # favicon: assets/favicon.ico
 # logo: assets/logo.png
 
